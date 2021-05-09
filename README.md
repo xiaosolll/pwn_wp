@@ -2,7 +2,7 @@
 做过的题目和题解
 
 
-1.ISCC_NUM
+1._NUM
 
 
-3.ISCC_HELLO_PWNER
+3._HELLO_PWNER
