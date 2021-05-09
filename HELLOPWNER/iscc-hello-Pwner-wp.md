@@ -1,5 +1,5 @@
 ---
-title: iscc_hello_Pwner_wp
+title: _hello_Pwner_wp
 date: 2021-05-09 11:51:39
 tags:
 
@@ -7,7 +7,7 @@ tags:
 
 
 
-# iscc_hello_pwner_wp
+# _hello_pwner_wp
 
 >one-by-one 爆破Canary原理
 >
